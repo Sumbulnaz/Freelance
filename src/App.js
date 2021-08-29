@@ -42,14 +42,14 @@ function App() {
   return (
     <div className="App">
     
-    {/* <HeaderOne/> */}
+    <HeaderOne/>
     {/* <HeaderTwo/> */}
     {/* <HeaderThree/> */}
     {/* <HeaderFour/> */}
     {/* <SingleImageBody/> */}
     {/* <SingleImageCenter/> */}
     <Body/>
-    {/* <PriceOne/> */}
+    <PriceOne/>
     {/* <PriceTwo/> */}
     {/* <StaticsOne/> */}
     {/* <StaticsTwo/> */}
@@ -79,7 +79,7 @@ function App() {
     {/* <TestimonialOne/> */}
     {/* <TestimonialTWo/> */}
     {/* <Blog/> */}
-    {/* <FooterThree/> */}
+    <FooterThree/>
     </div>
   );
 }
